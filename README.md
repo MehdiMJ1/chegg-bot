@@ -9,7 +9,7 @@ This bot requires a few dependencies. Listed below are the commands to install t
 * `npm install discord.js`
 * `npm install puppeteer`
 * `npm install puppeteer-extra`
-* `npm install puppeteer-extra-stealth-plugin`
+* `npm install puppeteer-extra-plugin-stealth`
 * `npm install fs`
 * `npm install user-agents`
 
